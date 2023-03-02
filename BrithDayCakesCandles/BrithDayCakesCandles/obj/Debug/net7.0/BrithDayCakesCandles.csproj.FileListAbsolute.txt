@@ -1,0 +1,15 @@
+C:\Users\SeymurManafov\Desktop\BrithDayCakesCandles\BrithDayCakesCandles\obj\Debug\net7.0\BrithDayCakesCandles.csproj.AssemblyReference.cache
+C:\Users\SeymurManafov\Desktop\BrithDayCakesCandles\BrithDayCakesCandles\obj\Debug\net7.0\BrithDayCakesCandles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeymurManafov\Desktop\BrithDayCakesCandles\BrithDayCakesCandles\obj\Debug\net7.0\BrithDayCakesCandles.AssemblyInfoInputs.cache
+C:\Users\SeymurManafov\Desktop\BrithDayCakesCandles\BrithDayCakesCandles\obj\Debug\net7.0\BrithDayCakesCandles.AssemblyInfo.cs
+C:\Users\SeymurManafov\Desktop\BrithDayCakesCandles\BrithDayCakesCandles\obj\Debug\net7.0\BrithDayCakesCandles.csproj.CoreCompileInputs.cache
+C:\Users\SeymurManafov\Desktop\BrithDayCakesCandles\BrithDayCakesCandles\bin\Debug\net7.0\BrithDayCakesCandles.exe
+C:\Users\SeymurManafov\Desktop\BrithDayCakesCandles\BrithDayCakesCandles\bin\Debug\net7.0\BrithDayCakesCandles.deps.json
+C:\Users\SeymurManafov\Desktop\BrithDayCakesCandles\BrithDayCakesCandles\bin\Debug\net7.0\BrithDayCakesCandles.runtimeconfig.json
+C:\Users\SeymurManafov\Desktop\BrithDayCakesCandles\BrithDayCakesCandles\bin\Debug\net7.0\BrithDayCakesCandles.dll
+C:\Users\SeymurManafov\Desktop\BrithDayCakesCandles\BrithDayCakesCandles\bin\Debug\net7.0\BrithDayCakesCandles.pdb
+C:\Users\SeymurManafov\Desktop\BrithDayCakesCandles\BrithDayCakesCandles\obj\Debug\net7.0\BrithDayCakesCandles.dll
+C:\Users\SeymurManafov\Desktop\BrithDayCakesCandles\BrithDayCakesCandles\obj\Debug\net7.0\refint\BrithDayCakesCandles.dll
+C:\Users\SeymurManafov\Desktop\BrithDayCakesCandles\BrithDayCakesCandles\obj\Debug\net7.0\BrithDayCakesCandles.pdb
+C:\Users\SeymurManafov\Desktop\BrithDayCakesCandles\BrithDayCakesCandles\obj\Debug\net7.0\BrithDayCakesCandles.genruntimeconfig.cache
+C:\Users\SeymurManafov\Desktop\BrithDayCakesCandles\BrithDayCakesCandles\obj\Debug\net7.0\ref\BrithDayCakesCandles.dll

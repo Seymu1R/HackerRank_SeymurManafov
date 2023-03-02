@@ -1,0 +1,15 @@
+C:\Users\SeymurManafov\Desktop\SaveThePrisioner\SaveThePrisioner\bin\Debug\net7.0\SaveThePrisioner.exe
+C:\Users\SeymurManafov\Desktop\SaveThePrisioner\SaveThePrisioner\bin\Debug\net7.0\SaveThePrisioner.deps.json
+C:\Users\SeymurManafov\Desktop\SaveThePrisioner\SaveThePrisioner\bin\Debug\net7.0\SaveThePrisioner.runtimeconfig.json
+C:\Users\SeymurManafov\Desktop\SaveThePrisioner\SaveThePrisioner\bin\Debug\net7.0\SaveThePrisioner.dll
+C:\Users\SeymurManafov\Desktop\SaveThePrisioner\SaveThePrisioner\bin\Debug\net7.0\SaveThePrisioner.pdb
+C:\Users\SeymurManafov\Desktop\SaveThePrisioner\SaveThePrisioner\obj\Debug\net7.0\SaveThePrisioner.csproj.AssemblyReference.cache
+C:\Users\SeymurManafov\Desktop\SaveThePrisioner\SaveThePrisioner\obj\Debug\net7.0\SaveThePrisioner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeymurManafov\Desktop\SaveThePrisioner\SaveThePrisioner\obj\Debug\net7.0\SaveThePrisioner.AssemblyInfoInputs.cache
+C:\Users\SeymurManafov\Desktop\SaveThePrisioner\SaveThePrisioner\obj\Debug\net7.0\SaveThePrisioner.AssemblyInfo.cs
+C:\Users\SeymurManafov\Desktop\SaveThePrisioner\SaveThePrisioner\obj\Debug\net7.0\SaveThePrisioner.csproj.CoreCompileInputs.cache
+C:\Users\SeymurManafov\Desktop\SaveThePrisioner\SaveThePrisioner\obj\Debug\net7.0\SaveThePrisioner.dll
+C:\Users\SeymurManafov\Desktop\SaveThePrisioner\SaveThePrisioner\obj\Debug\net7.0\refint\SaveThePrisioner.dll
+C:\Users\SeymurManafov\Desktop\SaveThePrisioner\SaveThePrisioner\obj\Debug\net7.0\SaveThePrisioner.pdb
+C:\Users\SeymurManafov\Desktop\SaveThePrisioner\SaveThePrisioner\obj\Debug\net7.0\SaveThePrisioner.genruntimeconfig.cache
+C:\Users\SeymurManafov\Desktop\SaveThePrisioner\SaveThePrisioner\obj\Debug\net7.0\ref\SaveThePrisioner.dll

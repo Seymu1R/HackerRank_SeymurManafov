@@ -1,0 +1,15 @@
+C:\Users\SeymurManafov\Desktop\ClimbingTheLeaderboard\ClimbingTheLeaderboard\bin\Debug\net7.0\ClimbingTheLeaderboard.exe
+C:\Users\SeymurManafov\Desktop\ClimbingTheLeaderboard\ClimbingTheLeaderboard\bin\Debug\net7.0\ClimbingTheLeaderboard.deps.json
+C:\Users\SeymurManafov\Desktop\ClimbingTheLeaderboard\ClimbingTheLeaderboard\bin\Debug\net7.0\ClimbingTheLeaderboard.runtimeconfig.json
+C:\Users\SeymurManafov\Desktop\ClimbingTheLeaderboard\ClimbingTheLeaderboard\bin\Debug\net7.0\ClimbingTheLeaderboard.dll
+C:\Users\SeymurManafov\Desktop\ClimbingTheLeaderboard\ClimbingTheLeaderboard\bin\Debug\net7.0\ClimbingTheLeaderboard.pdb
+C:\Users\SeymurManafov\Desktop\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net7.0\ClimbingTheLeaderboard.csproj.AssemblyReference.cache
+C:\Users\SeymurManafov\Desktop\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net7.0\ClimbingTheLeaderboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeymurManafov\Desktop\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net7.0\ClimbingTheLeaderboard.AssemblyInfoInputs.cache
+C:\Users\SeymurManafov\Desktop\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net7.0\ClimbingTheLeaderboard.AssemblyInfo.cs
+C:\Users\SeymurManafov\Desktop\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net7.0\ClimbingTheLeaderboard.csproj.CoreCompileInputs.cache
+C:\Users\SeymurManafov\Desktop\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net7.0\ClimbingTheLeaderboard.dll
+C:\Users\SeymurManafov\Desktop\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net7.0\refint\ClimbingTheLeaderboard.dll
+C:\Users\SeymurManafov\Desktop\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net7.0\ClimbingTheLeaderboard.pdb
+C:\Users\SeymurManafov\Desktop\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net7.0\ClimbingTheLeaderboard.genruntimeconfig.cache
+C:\Users\SeymurManafov\Desktop\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net7.0\ref\ClimbingTheLeaderboard.dll
